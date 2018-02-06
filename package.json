@@ -1,7 +1,7 @@
 {
   "name": "bs4starter",
   "version": "1.0.0",
-  "description": "Bootstrap 4 Workflow based on Udemy course",
+  "description": "Bookshop theme based on Bootstrap 4 Udemy course",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
