@@ -1,10 +1,9 @@
 {
   "name": "bs4starter",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Bookshop theme based on Bootstrap 4 Udemy course",
   "main": "index.js",
-  "scripts": {
-    },
+  "scripts": {},
   "keywords": [
     "bootstrap4",
     "azkom",
@@ -13,7 +12,7 @@
   "author": "Azkom",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.1.1",
+    "bootstrap": ">=4.1.2",
     "font-awesome": "^4.7.0",
     "gulp-cli": "^2.0.1",
     "jquery": "^3.3.1",
